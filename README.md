@@ -26,14 +26,14 @@ $ f'(x_0) = \lim_{\Delta x \to 0} \frac{f(x_0+\Delta x) - f(x_0)}{\Delta x} $
     $(f(x)+g(x))' = f'(x)+g'(x)$
 
 - **Правило произведения:**  
-    $ (f(x)\cdot g(x))' = f'(x)\cdot g(x) + f(x)\cdot g'(x) $
+    $(f(x)\cdot g(x))' = f'(x)\cdot g(x) + f(x)\cdot g'(x)$
 
 - **Правило частного:**  
-    $ \left(\frac{f(x)}{g(x)}\right)' = \frac{f'(x)\cdot g(x) - f(x)\cdot g'(x)}{(g(x))^2} $
+    $\left(\frac{f(x)}{g(x)}\right)' = \frac{f'(x)\cdot g(x) - f(x)\cdot g'(x)}{(g(x))^2}$
 
 - **Правило цепочки:**  
     Для составной функции $h(x)=f(g(x))$ производная равна  
-    $ h'(x)=f'(g(x))\cdot g'(x) $.
+    $h'(x)=f'(g(x))\cdot g'(x)$.
 
 ## Примеры
 
